@@ -1,7 +1,7 @@
 # LAB-5-Student-registration-system
-NAME : ALIYA SHEEMA
+NAME : B. DHANUSH KUMAR
 
-REGISTER NUMBER : 212223230011
+REGISTER NUMBER : 212224240034
 
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to implement the software in Java.
